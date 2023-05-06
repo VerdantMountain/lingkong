@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-brightgreen?logo=Untangle" alt="Miner Core"/>
 </p>
 
-# 🔥 灵控  `账号管理系统`
+# 🔥 灵控  `智能销售系统`
 
 - **适用场景**：通过在交易所对冲交易实现虚拟货币盈利
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
@@ -56,7 +56,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2024-00-00 - v1.00.l（即将发布）
-2023.01.00 
+2023.05.06 软件名称由灵控账号管理系统更名为灵控智能销售系统
 2023.01.05 (X)增加 Youtobe，Rumble 等平台的视频刷量功能
 2022.12.31 决定启动项目，定名为灵控账号管理系统
 ```
